@@ -1,0 +1,13 @@
+C:\Users\thanh\source\repos\QuanLyHangTon\obj\Debug\netcoreapp3.1\QuanLyHangTon.csprojAssemblyReference.cache
+C:\Users\thanh\source\repos\QuanLyHangTon\obj\Debug\netcoreapp3.1\QuanLyHangTon.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\QuanLyHangTon\obj\Debug\netcoreapp3.1\QuanLyHangTon.AssemblyInfo.cs
+C:\Users\thanh\source\repos\QuanLyHangTon\obj\Debug\netcoreapp3.1\QuanLyHangTon.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\QuanLyHangTon\bin\Debug\netcoreapp3.1\QuanLyHangTon.exe
+C:\Users\thanh\source\repos\QuanLyHangTon\bin\Debug\netcoreapp3.1\QuanLyHangTon.deps.json
+C:\Users\thanh\source\repos\QuanLyHangTon\bin\Debug\netcoreapp3.1\QuanLyHangTon.runtimeconfig.json
+C:\Users\thanh\source\repos\QuanLyHangTon\bin\Debug\netcoreapp3.1\QuanLyHangTon.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\QuanLyHangTon\bin\Debug\netcoreapp3.1\QuanLyHangTon.dll
+C:\Users\thanh\source\repos\QuanLyHangTon\bin\Debug\netcoreapp3.1\QuanLyHangTon.pdb
+C:\Users\thanh\source\repos\QuanLyHangTon\obj\Debug\netcoreapp3.1\QuanLyHangTon.dll
+C:\Users\thanh\source\repos\QuanLyHangTon\obj\Debug\netcoreapp3.1\QuanLyHangTon.pdb
+C:\Users\thanh\source\repos\QuanLyHangTon\obj\Debug\netcoreapp3.1\QuanLyHangTon.genruntimeconfig.cache
