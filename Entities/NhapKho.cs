@@ -54,7 +54,7 @@ namespace QuanLyHangTon.Entities
         }
         public void Display()
         {
-            Console.WriteLine("{0,-20}{1,-20}{2,-20}{3,-20}{4,-20}", mabaocao, ngaynhap, tenmathang, soluong, giaban);
+            Console.WriteLine("|{0,-20}|{1,-20}|{2,-20}|{3,-20}|{4,-20}|", mabaocao, ngaynhap, tenmathang, soluong, giaban);
         }
         public string Mabaocao { get => mabaocao; set => mabaocao = value; }
         public string Ngaynhap { get => ngaynhap; set => ngaynhap = value; }

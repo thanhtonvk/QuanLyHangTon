@@ -11,7 +11,7 @@ namespace QuanLyHangTon.Presenation
         private static void Menu()
         {
             Console.WriteLine("================================================================");
-            Console.WriteLine("||                      QUẢN LÝ NHẬP KHO                      ||");
+            Console.WriteLine("||                      QUẢN LÝ SẢN PHẨM                      ||");
             Console.WriteLine("================================================================");
             Console.WriteLine("||               1. Nhập thông tin                            ||");
             Console.WriteLine("||               2. Hiện thông tin                            ||");
